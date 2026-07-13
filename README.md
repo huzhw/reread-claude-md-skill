@@ -4,10 +4,10 @@
 
 ## 参见
 
-- [[git-commit]]：Git 提交规范
-- [[coding-rules]]：AI 编码协作规范
-- [[daily-record]]：日报记录
-- [[daily-merge]]：日报合并
+- [git-commit](https://github.com/huzhw/git-commit-skill)：Git 提交规范
+- [coding-rules](https://github.com/huzhw/coding-rules)：AI 编码协作规范
+- [daily-record](https://github.com/huzhw/daily-record-skill)：日报记录
+- [daily-merge](https://github.com/huzhw/daily-merge-skill)：日报合并
 
 ---
 
