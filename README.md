@@ -43,7 +43,7 @@ git clone https://github.com/huzhw/reread-claude-md-skill.git ~/.claude/skills/r
 
 ---
 
-## 参见
+## 相关技能
 
 - [git-commit](https://github.com/huzhw/git-commit-skill)：Git 提交规范
 - [coding-rules](https://github.com/huzhw/coding-rules)：AI 编码协作规范
