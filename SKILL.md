@@ -23,7 +23,8 @@ motto: "规则再好的规则，加载回来才算数。"
 4. 报告"规则已加载"即可，不用重复全文
 
 ## 参见
-- [git-commit](https://github.com/huzhw/git-commit-skill)：Git 提交流程
-- [daily-record](https://github.com/huzhw/daily-record-skill)：日报记录
-- [daily-merge](https://github.com/huzhw/daily-merge-skill)：日报合并
+- [[git-commit]]：Git 提交流程
+- [[coding-rules]]：AI 编码协作规范
+- [[daily-record]]：日报记录
+- [[daily-merge]]：日报合并
 
